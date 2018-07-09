@@ -1,0 +1,3 @@
+Generating source from jar file to Java source code (Includes Java 8)
+
+java -jar cfr_0_123.jar <name of the jar>.jar --pullcodecase --outputpath result
